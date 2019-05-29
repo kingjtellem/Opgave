@@ -56,7 +56,7 @@ export default class ProduktList extends Component {
                             <th>Navn</th>
                             <th>Beskrivelse</th>
                             <th>Pris</th>
-                            <th>Actions</th>
+                            <th>Billede</th>
                         </tr>
                     </thead>
                     <tbody>
